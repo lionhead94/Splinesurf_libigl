@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "utility": "cpp",
+        "complex": "cpp",
+        "__string": "cpp",
+        "__tuple": "cpp",
+        "algorithm": "cpp",
+        "bitset": "cpp",
+        "cmath": "cpp",
+        "filesystem": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "locale": "cpp",
+        "ratio": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "unordered_set": "cpp"
+    }
+}
