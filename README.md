@@ -4,7 +4,7 @@ Libigl porting of the splinesurf project performed by Andrea Gatti and Matteo Ma
 
 ## Build and run
 
-To build the project it's sufficient to move into the `build` folder and run
+To build the project it's sufficient to create a `build` folder, move into it and run
 
 ``` bash
 cmake ..
